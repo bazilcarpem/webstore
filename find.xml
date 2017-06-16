@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'springBootApp'" />
-    <option name="defaultScopeName" value="Project 'springBootApp'" />
-    <option name="SEARCH_SCOPE" value="Project 'springBootApp'" />
+    <option name="customScope" value="Project 'simpleUnicornBank'" />
+    <option name="defaultScopeName" value="Project 'simpleUnicornBank'" />
+    <option name="SEARCH_SCOPE" value="Project 'simpleUnicornBank'" />
   </component>
 </application>
